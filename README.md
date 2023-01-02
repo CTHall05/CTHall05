@@ -4,7 +4,7 @@
  </div>
 
 
-<h2 align="center">Hey, Im Taylor Hall, a full stack driven react-dev</h2>
+<h2 align="center">Hey, Im Taylor Hall, a full stack driven React-Dev!</h2>
 
 <h4 align="center">👋 Greeting's 👋 </h4>
 
