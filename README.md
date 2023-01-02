@@ -21,7 +21,7 @@ A driven hardworking web-developer who spends his whole day everyday building be
 
 ---
 
-<h1 align="center">Tools of the Trade </h1>
+<h1 align="start">Tools of the Trade </h1>
 
 <div align="center">
 <img height="60px" src="https://img.icons8.com/color/48/000000/html-5--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/css3.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/><img height="60px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/firebase.png"/><img height="60px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
