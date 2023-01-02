@@ -16,7 +16,7 @@ A driven hardworking web-developer who spends his whole day everyday building be
 </p>
 
 <p align="center">
-🚀  I write blogs and create usefull videos for other developers & learning the latest tech that interest me.🚀 
+🚀  I like to stay healthy through training, yoga as well as coding. 🚀 
 </p>
 
 ---
@@ -43,46 +43,16 @@ A driven hardworking web-developer who spends his whole day everyday building be
     <th>Tech Used</th>
   </tr>
   <tr>
-    <td>1. Freelance Portfolio</td>
-    <td><a href="https://github.com/Jordaneddielinton93/Freelance-Portfolio-Website">Github</td>
-    <td><a href="https://jordansfreelancing.co.uk/">Demo</td>
+    <td>1.Portfolio</td>
+    <td><a href="">Github</td>
+    <td><a href="">Demo</td>
     <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>CSS-Modules<br/> Node-Send-grid<br/> Stripe-Calandly<br/>Figma</td>
   </tr>
   <tr>
-    <td>2. Italian Resturant</td>
-    <td><a href="https://github.com/Jordaneddielinton93/italian-resturant-front-end">Github</td>
-    <td><a href="https://italian-resturant-front-end.vercel.app/">Demo</td>
+    <td>2. Bro Bible</td>
+    <td><a href="">Github</td>
+    <td><a href="">Demo</td>
     <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Axios<br/> Local-Storage<br/>  Figma, </td>
-  </tr>
-
-
-<tr>
-    <td>3. Visions of Peace</td>
-    <td><a href="https://github.com/Jordaneddielinton93/visions-of-Peace">Github</td>
-    <td><a href="https://visions-of-peace.netlify.app/">Demo</td>
-    <td>Next.js<br/> Typescript<br/>Material.ui<br/> Jest<br/> Contentful-cms <br/>useQuery<br/> Local-Storage<br/>  Figma, </td>
-  </tr>
-
-
-
- <tr>
-    <td>4. Tetris-Typescript</td>
-    <td><a href="https://github.com/Jordaneddielinton93/Tetris-With-Typescript">Github</td>
-    <td><a href="https://testris-with-jordan.netlify.app/">Demo</td>
-    <td>React.js<br/> Typescript<br/>  </td>
-  </tr>
-<tr>
-    <td>5. Gro-Pro - Team Project</td>
-    <td>Github</td>
-    <td><a href="https://bike-man-dan-wheeldeal.netlify.app/">Demo</td>
-    <td>React <br/> Google maps </td>
-  </tr>
-
-<tr>
-    <td>6. Portfolio v2</td>
-    <td>Github</td>
-    <td><a href="https://jordans-new-portfolio.netlify.app/">Demo</td>
-    <td>React</td>
   </tr>
 
 </table>
@@ -91,8 +61,8 @@ A driven hardworking web-developer who spends his whole day everyday building be
 
 ---
 
-<img src="https://www.codewars.com/users/Jordanlinton93/badges/large"/>
+<img src=""/>
 
-  <a  href="www.linkedin.com/in/jordan-e-linton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  href="https://www.linkedin.com/in/charlestaylorhall" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
