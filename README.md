@@ -61,7 +61,7 @@ A driven hardworking web-developer who spends his whole day everyday building be
 
 ---
 
-<img src=""/>
+<img src="https://www.codewars.com/users/CTHall05/badges/large"/>
 
   <a  href="https://www.linkedin.com/in/charlestaylorhall" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
