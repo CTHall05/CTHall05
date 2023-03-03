@@ -49,7 +49,7 @@ A driven hardworking web-developer who spends his whole day everyday building be
     <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>CSS-Modules<br/> Node-Send-grid<br/> Stripe-Calandly<br/>Figma</td>
   </tr>
   <tr>
-    <td>2. Bro Bible</td>
+    <td>2.Devault</td>
     <td><a href="">Github</td>
     <td><a href="">Demo</td>
     <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Axios<br/> Local-Storage<br/>  Figma, </td>
