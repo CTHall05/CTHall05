@@ -65,6 +65,30 @@ A driven hardworking web-developer who spends his whole day everyday building be
 
 </div>
 
+<div style="display:flex; justify-content:center; "}>
+
+<h1 align="center">Javascript Practise Projects </h1>
+
+<div style="height:600px; width:600px;">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th></th>
+    <th></th>
+    <th>Tech Used</th>
+  </tr>
+  <tr>
+    <td>1.Clock</td>
+    <td><a href="https://github.com/CTHall05/Javascript_clock_javascript_playground/blob/main/README.md">Github</td>
+    <td><a href="">Demo</td>
+    <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>CSS-Modules<br/> Node-Send-grid<br/> Stripe-Calandly<br/>Figma</td>
+  </tr>
+  
+</table>
+
+</div>
+
 ---
 
 <img src="https://www.codewars.com/users/CTHall05/badges/large"/>
