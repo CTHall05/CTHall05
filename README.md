@@ -82,7 +82,7 @@ A driven hardworking web-developer who spends his whole day everyday building be
     <td>1.Clock</td>
     <td><a href="https://github.com/CTHall05/Javascript_clock_javascript_playground/blob/main/README.md">Github</td>
     <td><a href="">Demo</td>
-    <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>CSS-Modules<br/> Node-Send-grid<br/> Stripe-Calandly<br/>Figma</td>
+    <td>Html <br> CSS <br> Javascript</td>
   </tr>
   
 </table>
