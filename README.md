@@ -85,10 +85,10 @@ A driven hardworking web-developer who spends his whole day everyday building be
     <td>Html <br> CSS <br> Javascript <br> Jest Testing</td>
   </tr>
    <tr>
-    <td>2. Basic Pomodoro Timer/td>
+    <td>2. Basic Pomodoro Timer</td>
     <td><a href="https://github.com/CTHall05/Javascript_Pomodoro_Timer_Javascript_Playground">Github</td>
     <td><a href="">Demo</td>
-    <td>Html <br> CSS <br> Javascript <br> Jest Testing</td>
+    <td>Html <br> CSS <br> Javascript</td>
   </tr>
   
 </table>
