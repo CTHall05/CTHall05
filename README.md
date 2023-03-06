@@ -41,24 +41,24 @@ A driven hardworking web-developer who spends his whole day everyday building be
     <th></th>
     <th></th>
     <th>Tech Used</th>
-  </tr>
+ </tr>
   <tr>
-    <td>1.Portfolio</td>
-    <td><a href="">Github</td>
-    <td><a href="">Demo</td>
-    <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>CSS-Modules<br/> Node-Send-grid<br/> Stripe-Calandly<br/>Figma</td>
-  </tr>
-  <tr>
-    <td>2.Devault</td>
+    <td>1.Devault</td>
     <td><a href="https://github.com/CTHall05/bc13_final-project_front-end-cyber-insecure">Github</td>
     <td><a href="https://dev-vault.netlify.app/">Demo</td>
-    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Axios<br/> Local-Storage<br/>  Figma, </td>
+    <td>Jest<br/> Cypress <br/> PostgreSQL<br/> Figma <br/> React <br/> Node.js <br/> </td>
   </tr>
   <tr>
-    <td>3.Business Eployee Crud Application</td>
+    <td>2.Business Eployee Crud Application</td>
     <td><a href="">Github</td>
     <td><a href="">Demo</td>
     <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Axios<br/> Local-Storage<br/>  Figma, </td>
+  </tr>
+  <tr>
+    <td>3. Mini Expense Tracker </td>
+    <td><a href="https://github.com/CTHall05/Expense-Tracker">Github</td>
+    <td><a href="">Demo</td>
+    <td>Jest<br/> Cypress <br/> PostgreSQL<br/> Figma <br/> React <br/> Node.js <br/> </td>
   </tr>
 
 </table>
