@@ -52,7 +52,7 @@ A driven hardworking web-developer who spends his whole day everyday building be
     <td>2.Business Eployee Crud Application</td>
     <td><a href="">Github</td>
     <td><a href="">Demo</td>
-    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Axios<br/> Local-Storage<br/>  Figma, </td>
+    <td>Jest<br/> Cypress <br/> PostgreSQL<br/> Figma <br/> React <br/> Node.js <br/> </td>
   </tr>
   <tr>
     <td>3. Mini Expense Tracker </td>
