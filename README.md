@@ -60,6 +60,12 @@ A driven hardworking web-developer who spends his whole day everyday building be
     <td><a href="">Demo</td>
     <td>Jest<br/> Cypress <br/> PostgreSQL<br/> Figma <br/> React <br/> Node.js <br/> </td>
   </tr>
+  <tr>
+    <td>4. Movie Search API </td>
+    <td><a href="https://github.com/CTHall05/Movie_Api">Github</td>
+    <td><a href="">Demo</td>
+    <td> React<br/> API <br/> JavaScript </td>
+  </tr>
 
 </table>
 
