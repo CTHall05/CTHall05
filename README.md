@@ -40,7 +40,7 @@ These are the projects I am most pround of during my learning journey. The first
 
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
-|               Devault | [Github]() | [Demo](https://archianne.github.io/rock-paper-scissors/) | Javascript, Scss     |
+|               Devault | [Github](https://github.com/CTHall05/bc13_final-project_front-end-cyber-insecure) | [Demo](https://dev-vault.netlify.app/) | Javascript, Scss|
 |          Google Clone | [Github](https://github.com/Archianne/google-clone)        | [Demo](https://archianne.github.io/google-clone)         | Javascript, Scss     |
 |         Password Lock | [Github](https://github.com/Archianne/password-lock)       | [Demo](https://archianne.github.io/password-lock)        | Javascript, Scss     |
 |       Higher Or Lower | [Github](https://github.com/Archianne/higher-or-lower)     | [Demo](https://archianne.github.io/higher-or-lower)      | Javascript, Scss     |
