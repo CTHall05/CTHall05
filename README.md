@@ -1,104 +1,65 @@
-
-
-
+<div align="center"> 
+  <a href="https://instagram.com/archianne_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: helena19w@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/helena-archer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
+<hr>
 
-<h2 align="center">Hey, I'm Taylor Hall, a full stack driven React-Dev!</h2>
+### Hi there 👋
 
-<h4 align="center">👋 Greeting's 👋 </h4>
+<img align="left" src="./img/transparent.png" width="100">
 
-
-
-<p align="center">
-A driven hardworking web-developer who spends his whole day everyday building beautiful responsive web-applications/web-sites. successfully advancing my knowledge of advanced coding techniques with the use of online courses and videos. A user's expirence is my first and formost thought throughout all of my applications, which allows me to make the best application I possibly can.
-🌱 Having just completed my School of Code Bootcamp, I have a strong understanding of the agile priciples and methodology through working in several teams across my 16 week bootcamp jounrey. I love to connect and work with people, I want to know their story to really understand the person I am working with so we can create and give our all to the project we are working on, whilst supporting each other. 
-</p>
-
-<p align="center">
-🚀  I like to stay healthy through fitness training, practising yoga as well as coding. 🚀 
-</p>
-
----
-
-<h1 align="center">Tools of the Trade </h1>
-
-<div align="center">
-<img height="60px" src="https://img.icons8.com/color/48/000000/html-5--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/css3.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/><img height="60px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/firebase.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img height="60px" src="https://img.icons8.com/fluency/344/node-js.png"/>
-<img height="60px" src="https://img.icons8.com/color/344/git.png"/>
-
-
-<div style="display:flex; justify-content:center; "}>
-
-<h1 align="center">Current Projects </h1>
-
-<div style="height:600px; width:600px;">
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th></th>
-    <th></th>
-    <th>Tech Used</th>
- </tr>
-  <tr>
-    <td>1.Devault</td>
-    <td><a href="https://github.com/CTHall05/bc13_final-project_front-end-cyber-insecure">Github</td>
-    <td><a href="https://dev-vault.netlify.app/">Demo</td>
-    <td>Jest<br/> Cypress <br/> PostgreSQL<br/> Figma <br/> React <br/> Node.js <br/> </td>
-  </tr>
-  <tr>
-    <td>2. Mini Expense Tracker </td>
-    <td><a href="https://github.com/CTHall05/Expense-Tracker">Github</td>
-    <td><a href="">Demo</td>
-    <td>Jest<br/> Cypress <br/> PostgreSQL<br/> Figma <br/> React <br/> Node.js <br/> </td>
-  </tr>
-  <tr>
-    <td>3. Movie Search API </td>
-    <td><a href="https://github.com/CTHall05/Movie_Api">Github</td>
-    <td><a href="">Demo</td>
-    <td> React<br/> API <br/> JavaScript </td>
-  </tr>
-
-</table>
-
+<div>
+After just under 4 years of flying around the world working in aviation as cabin crew, I realised I wanted to upskills myself and retrain into something that could make a real impact to peoples lives. I have been passionate about tech since I first discovered it's impact during 2020, and I decided to prove to myself that I can learn and thrive in this industry. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code. 
 </div>
 
-<div style="display:flex; justify-content:center; "}>
+<hr>
+<br>
 
-<h1 align="center">Javascript Practise Projects </h1>
-
-<div style="height:600px; width:600px;">
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th></th>
-    <th></th>
-    <th>Tech Used</th>
-  </tr>
-  <tr>
-    <td>1. Clock</td>
-    <td><a href="https://github.com/CTHall05/Javascript_clock_javascript_playground/blob/main/README.md">Github</td>
-    <td><a href="">Demo</td>
-    <td>Html <br> CSS <br> Javascript <br> Jest Testing</td>
-  </tr>
-   <tr>
-    <td>2. Basic Pomodoro Timer</td>
-    <td><a href="https://github.com/CTHall05/Javascript_Pomodoro_Timer_Javascript_Playground">Github</td>
-    <td><a href="">Demo</td>
-    <td>Html <br> CSS <br> Javascript</td>
-  </tr>
-  
-</table>
-
+<h3 align="center">Languages and Tools:</h3>
+<div style="display: inline_block" align="center">
+  <img src="./img/html.png" width="40">
+  <img src="./img/css.png" width="40">
+  <img src="./img/sass.png" width="40">
+  <img src="./img/js.png" width="40">
+  <img src="./img/ts.png" width="40">
+  <img src="./img/react.png" width="40">
+  <img src="./img/git.png" width="40">
+  <img src="./img/node.png" width="40">
+ 
 </div>
 
----
 
-<img src="https://www.codewars.com/users/CTHall05/badges/large"/>
+<br>
+<hr>
+<br>
 
-  <a  href="https://www.linkedin.com/in/charlestaylorhall" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h3>Quick Projects</h3>
+These are the projects I am most pround of during my learning journey. The first one being my School of Code final project where we 
 
-<!--
+|               Project |                                                            |                                                          | Tech                 |
+|----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
+|               Devault | [Github]() | [Demo](https://archianne.github.io/rock-paper-scissors/) | Javascript, Scss     |
+|          Google Clone | [Github](https://github.com/Archianne/google-clone)        | [Demo](https://archianne.github.io/google-clone)         | Javascript, Scss     |
+|         Password Lock | [Github](https://github.com/Archianne/password-lock)       | [Demo](https://archianne.github.io/password-lock)        | Javascript, Scss     |
+|       Higher Or Lower | [Github](https://github.com/Archianne/higher-or-lower)     | [Demo](https://archianne.github.io/higher-or-lower)      | Javascript, Scss     |
+|        Drawing canvas | [Github](https://github.com/Archianne/drawing-canvas)      | [Demo](https://archianne.github.io/drawing-canvas)       | Javascript, CSS, PWA |
+|   Noughts and Crosses | [Github](https://github.com/Archianne/noughts-and-crosses) | [Demo](https://archianne.github.io/noughts-and-crosses/) | Javascript, CSS      |
+|         Fetch Recipes | [Github](https://github.com/Archianne/fetch-recipes)       | [Demo](https://archianne.github.io/fetch-recipes/)       | Javascript, CSS      |
+|           Whac A Mole | [Github](https://github.com/Archianne/whac-a-mole)         | [Demo](https://archianne.github.io/whac-a-mole/)         | Javascript, CSS      |
+|           Memory Game | [Github](https://github.com/Archianne/memory-game)         | [Demo](https://archianne.github.io/memory-game/)         | Javascript, CSS      |
+|            To do List | [Github](https://github.com/Archianne/to-do-list)          | [Demo](https://archianne.github.io/to-do-list/)          | Javascript, CSS      |
+|          Connect Four | [Github](https://github.com/Archianne/connect-four)        | [Demo](https://archianne.github.io/connect-four/)        | Javascript, CSS      |
+
+##
+
+<h3>Other Projects</h3>
+
+|                 Project |                                                      |                                                                                                                                                                                                   |
+|------------------------:|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Website - RaiPonticelli | [Website](https://raiponticelli.com/)                        | This was a project made for a friend where I went more in-depth in React, Netlify Identity, Netlify CMS.                                                                                          |
+| React Native Calculator | [Github](https://github.com/Archianne/rn-calculator) | I've been building this project in my own free time to practice more about React Native, Typescript, Google Ads and publishing apps.\ Find more at [Expo](https://expo.dev/@archianne/calculator) |
+
+<br>
+<hr>
