@@ -41,16 +41,8 @@ These are the projects I am most pround of during my learning journey. The first
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
 |               Devault | [Github](https://github.com/CTHall05/bc13_final-project_front-end-cyber-insecure) | [Demo](https://dev-vault.netlify.app/) | Javascript, Scss|
-|          Google Clone | [Github](https://github.com/Archianne/google-clone)        | [Demo](https://archianne.github.io/google-clone)         | Javascript, Scss     |
-|         Password Lock | [Github](https://github.com/Archianne/password-lock)       | [Demo](https://archianne.github.io/password-lock)        | Javascript, Scss     |
-|       Higher Or Lower | [Github](https://github.com/Archianne/higher-or-lower)     | [Demo](https://archianne.github.io/higher-or-lower)      | Javascript, Scss     |
-|        Drawing canvas | [Github](https://github.com/Archianne/drawing-canvas)      | [Demo](https://archianne.github.io/drawing-canvas)       | Javascript, CSS, PWA |
-|   Noughts and Crosses | [Github](https://github.com/Archianne/noughts-and-crosses) | [Demo](https://archianne.github.io/noughts-and-crosses/) | Javascript, CSS      |
-|         Fetch Recipes | [Github](https://github.com/Archianne/fetch-recipes)       | [Demo](https://archianne.github.io/fetch-recipes/)       | Javascript, CSS      |
-|           Whac A Mole | [Github](https://github.com/Archianne/whac-a-mole)         | [Demo](https://archianne.github.io/whac-a-mole/)         | Javascript, CSS      |
-|           Memory Game | [Github](https://github.com/Archianne/memory-game)         | [Demo](https://archianne.github.io/memory-game/)         | Javascript, CSS      |
-|            To do List | [Github](https://github.com/Archianne/to-do-list)          | [Demo](https://archianne.github.io/to-do-list/)          | Javascript, CSS      |
-|          Connect Four | [Github](https://github.com/Archianne/connect-four)        | [Demo](https://archianne.github.io/connect-four/)        | Javascript, CSS      |
+|     Yoga Booking Form | [Github](https://github.com/CTHall05/Izzy-Hall-Yoga)       | [Demo](https://izzy-hall-yoga-jrju-cthall05.vercel.app/) | Javascript, Scss     |
+| Employee Tracker CRUD | [Github]()        | [Demo](https://archianne.github.io/connect-four/)        | Javascript, CSS      |
 
 ##
 
