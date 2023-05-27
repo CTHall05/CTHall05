@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-<img align="left" src="./img/transparent.png" width="100">
+<img align="left" src="profileimage.png" width="100">
 
 <div>
 After just under 4 years of flying around the world working in aviation as cabin crew, I realised I wanted to upskills myself and retrain into something that could make a real impact to peoples lives. I have been passionate about tech since I first discovered it's impact during 2020, and I decided to prove to myself that I can learn and thrive in this industry. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code. 
@@ -19,14 +19,14 @@ After just under 4 years of flying around the world working in aviation as cabin
 
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: inline_block" align="center">
-  <img src="./img/html.png" width="40">
-  <img src="./img/css.png" width="40">
-  <img src="./img/sass.png" width="40">
-  <img src="./img/js.png" width="40">
-  <img src="./img/ts.png" width="40">
-  <img src="./img/react.png" width="40">
-  <img src="./img/git.png" width="40">
-  <img src="./img/node.png" width="40">
+  <img src="html.png" width="40">
+  <img src="css.png" width="40">
+  <img src="sass.png" width="40">
+  <img src="js.png" width="40">
+  <img src="ts.png" width="40">
+  <img src="react.png" width="40">
+  <img src="git.png" width="40">
+  <img src="node.png" width="40">
  
 </div>
 
