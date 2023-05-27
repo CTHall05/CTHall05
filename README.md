@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-<img align="left" src="profileimage.png" width="100">
+<img align="left" src="profileimage.jpg" width="100">
 
 <div>
 After just under 4 years of flying around the world working in aviation as cabin crew, I realised I wanted to upskills myself and retrain into something that could make a real impact to peoples lives. I have been passionate about tech since I first discovered it's impact during 2020, and I decided to prove to myself that I can learn and thrive in this industry. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code. 
