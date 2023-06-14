@@ -48,10 +48,5 @@ These are the projects I am most pround of during my learning journey. The first
 
 <h3>Other Projects</h3>
 
-|                 Project |                                                      |                                                                                                                                                                                                   |
-|------------------------:|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Website - RaiPonticelli | [Website](https://raiponticelli.com/)                        | This was a project made for a friend where I went more in-depth in React, Netlify Identity, Netlify CMS.                                                                                          |
-| React Native Calculator | [Github](https://github.com/Archianne/rn-calculator) | I've been building this project in my own free time to practice more about React Native, Typescript, Google Ads and publishing apps.\ Find more at [Expo](https://expo.dev/@archianne/calculator) |
-
 <br>
 <hr>
