@@ -42,7 +42,7 @@ These are the projects I am most pround of during my learning journey. The first
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
 |               Devault | [Github](https://github.com/CTHall05/bc13_final-project_front-end-cyber-insecure) | [Demo](https://dev-vault.netlify.app/) | Javascript, Scss|
 |     Yoga Booking Form | [Github](https://github.com/CTHall05/Izzy-Hall-Yoga)       | [Demo](https://izzy-hall-yoga-jrju-cthall05.vercel.app/) | Javascript, Scss     |
-| Employee Tracker CRUD | [Github]((https://github.com/CTHall05/React--Employee-Tracker-Crud))        | [Demo](https://employee-tracker-crud.vercel.app/)        | Javascript, CSS      |
+| Employee Tracker CRUD | [Github](https://github.com/CTHall05/React--Employee-Tracker-Crud)        | [Demo](https://employee-tracker-crud.vercel.app/)        | Javascript, CSS      |
 
 ##
 
