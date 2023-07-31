@@ -11,7 +11,11 @@
 <img align="left" src="profileimage.jpg" width="150" border-radius="50%">
 
 <div>
-After just under 4 years of flying around the world working in aviation as cabin crew, I realised I wanted to upskill myself and retrain into something that could make a real impact to peoples lives. I have been passionate about tech since I first discovered it's impact during 2020, and I decided to prove to myself that I can learn and thrive in this industry. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code. 
+I am a Node.js and React Developer with a passion for test-driven development, honing my skills with Jest and Cypress. Currently, I'm expanding my JavaScript knowledge by learning Typescript.
+
+As a recent Coding Bootcamp Graduate, I focused on mastering React Application Development through personal projects and specialized courses.
+
+My journey into software engineering was inspired by witnessing the trans-formative impact of technology in 2020. I believe that with the right attitude and a thirst for learning, anyone can thrive in this industry. Coming from an aviation background, I embrace collaboration and excel in diverse, cross-functional teams.
 </div>
 
 <hr>
