@@ -40,7 +40,7 @@ My journey into software engineering was inspired by witnessing the trans-format
 <br>
 
 <h3>Quick Projects</h3>
-These are the projects I am most pround of during my learning journey. The first one being my School of Code final project where we 
+These are the projects I am most pround of during my learning journey.
 
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
