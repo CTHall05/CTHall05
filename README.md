@@ -50,7 +50,7 @@ These are the projects I am most pround of during my learning journey.
 
 ##
 
-<h3>Other Projects</h3>
+<h3>React SKill Practise Projects</h3>
 
 <br>
 <hr>
